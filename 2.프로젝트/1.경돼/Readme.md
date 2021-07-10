@@ -1,4 +1,4 @@
-# 린 캔버스
+# 린 캔버스 지표 활용
 : 에릭 리스(Eric Ries)가 창안한 '린 스타트업(Lean Startup)'에 입각하여 빠르게 스타트업을 할 수 있는 여러 방법론 중 가장 각광 받고 있는 'Running Lean'을 출간한 애쉬 모리아(Ash Maurya)에 의해 만들어진 일종의 비즈니스 모델 개요를 정리하는 프레임워크다.
 출처: https://acquiredentrepreneur.tistory.com/21 [린스프린트 블로그 (Insights for Startups)]
 
